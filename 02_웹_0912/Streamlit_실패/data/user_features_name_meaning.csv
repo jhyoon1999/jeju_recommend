@@ -1,0 +1,102 @@
+user_features_name,Category,meaning
+TRAVEL_MOTIVE_1,여행동기,"일상적인 환경 및 역할에서의 탈출, 지루함 탈피"
+TRAVEL_MOTIVE_2,여행동기,"쉴 수 있는 기회, 육체 피로 해결 및 정신적인 휴식"
+TRAVEL_MOTIVE_3,여행동기,여행 동반자와의 친밀감 및 유대감 증진
+TRAVEL_MOTIVE_4,여행동기,진정한 자아 찾기 또는 자신을 되돌아볼 기회 찾기
+TRAVEL_MOTIVE_5,여행동기,SNS 사진 등록 등 과시
+TRAVEL_MOTIVE_6,여행동기,"운동, 건강 증진 및 충전"
+TRAVEL_MOTIVE_7,여행동기,새로운 경험 추구
+TRAVEL_MOTIVE_8,여행동기,"역사 탐방, 문화적 경험 등 교육적 동기"
+TRAVEL_MOTIVE_9,여행동기,"특별한 목적(칠순여행, 신혼여행, 수학여행, 인센티브여행)"
+TRAVEL_MOTIVE_10,여행동기,기타
+TRAVEL_MISSION_1,여행미션,쇼핑
+TRAVEL_MISSION_10,여행미션,온천/스파
+TRAVEL_MISSION_11,여행미션,교육/체험 프로그램 참가
+TRAVEL_MISSION_12,여행미션,드라마 촬영지 방문
+TRAVEL_MISSION_13,여행미션,종교/성지 순례
+TRAVEL_MISSION_2,여행미션,"테마파크, 놀이시설, 동/식물원 방문"
+TRAVEL_MISSION_21,여행미션,Well-ness 여행
+TRAVEL_MISSION_22,여행미션,SNS 인생샷 여행
+TRAVEL_MISSION_23,여행미션,호캉스 여행
+TRAVEL_MISSION_24,여행미션,신규 여행지 발굴
+TRAVEL_MISSION_25,여행미션,반려동물 동반 여행
+TRAVEL_MISSION_26,여행미션,인플루언서 따라하기 여행
+TRAVEL_MISSION_27,여행미션,친환경 여행(플로깅 여행)
+TRAVEL_MISSION_28,여행미션,등반 여행
+TRAVEL_MISSION_3,여행미션,역사 유적지 방문
+TRAVEL_MISSION_4,여행미션,시티투어
+TRAVEL_MISSION_5,여행미션,"야외 스포츠, 레포츠 활동"
+TRAVEL_MISSION_6,여행미션,지역 문화예술/공연/전시시설 관람
+TRAVEL_MISSION_7,여행미션,유흥/오락(나이트라이프)
+TRAVEL_MISSION_8,여행미션,캠핑
+TRAVEL_MISSION_9,여행미션,지역 축제/이벤트 참가
+GENDER_남,성별,남자
+GENDER_여,성별,여자
+AGE_GRP_20,연령대,20대
+AGE_GRP_30,연령대,30대
+AGE_GRP_40,연령대,40대
+AGE_GRP_50,연령대,50대
+AGE_GRP_60,연령대,60대
+TRAVEL_STATUS_ACCOMPANY_2인 가족 여행,동반현황,2인 가족 여행
+TRAVEL_STATUS_ACCOMPANY_2인 여행(가족 외),동반현황,2인 여행(가족 외)
+TRAVEL_STATUS_ACCOMPANY_3대 동반 여행(친척 포함),동반현황,3대 동반 여행(친척 포함)
+TRAVEL_STATUS_ACCOMPANY_3인 이상 여행(가족 외),동반현황,3인 이상 여행(가족 외)
+TRAVEL_STATUS_ACCOMPANY_나홀로 여행,동반현황,나홀로 여행
+TRAVEL_STATUS_ACCOMPANY_부모 동반 여행,동반현황,부모 동반 여행
+TRAVEL_STATUS_ACCOMPANY_자녀 동반 여행,동반현황,자녀 동반 여행
+TRAVEL_STYL_1_1,여행스타일,자연 선호 매우선호
+TRAVEL_STYL_1_2,여행스타일,자연 선호 중간선호
+TRAVEL_STYL_1_3,여행스타일,자연 선호 약간선호
+TRAVEL_STYL_1_4,여행스타일,중립
+TRAVEL_STYL_1_5,여행스타일,도시 선호 약간선호
+TRAVEL_STYL_1_6,여행스타일,도시 선호 중간선호
+TRAVEL_STYL_1_7,여행스타일,도시 선호 매우선호
+TRAVEL_STYL_2_1,여행스타일,숙박 선호 매우선호
+TRAVEL_STYL_2_2,여행스타일,숙박 선호 중간선호
+TRAVEL_STYL_2_3,여행스타일,숙박 선호 약간선호
+TRAVEL_STYL_2_4,여행스타일,중립
+TRAVEL_STYL_2_5,여행스타일,당일 선호 약간선호
+TRAVEL_STYL_2_6,여행스타일,당일 선호 중간선호
+TRAVEL_STYL_2_7,여행스타일,당일 선호 매우선호
+TRAVEL_STYL_3_1,여행스타일,새로운지역 선호 매우선호
+TRAVEL_STYL_3_2,여행스타일,새로운지역 선호 중간선호
+TRAVEL_STYL_3_3,여행스타일,새로운지역 선호 약간선호
+TRAVEL_STYL_3_4,여행스타일,중립
+TRAVEL_STYL_3_5,여행스타일,익숙한지역 선호 약간선호
+TRAVEL_STYL_3_6,여행스타일,익숙한지역 선호 중간선호
+TRAVEL_STYL_3_7,여행스타일,익숙한지역 선호 매우선호
+TRAVEL_STYL_4_1,여행스타일,편하지만 비싼 숙소 선호 매우선호
+TRAVEL_STYL_4_2,여행스타일,편하지만 비싼 숙소 선호 중간선호
+TRAVEL_STYL_4_3,여행스타일,편하지만 비싼 숙소 선호 약간선호
+TRAVEL_STYL_4_4,여행스타일,중립
+TRAVEL_STYL_4_5,여행스타일,불편하지만 저렴한 숙소 선호 약간선호
+TRAVEL_STYL_4_6,여행스타일,불편하지만 저렴한 숙소 선호 중간선호
+TRAVEL_STYL_4_7,여행스타일,불편하지만 저렴한 숙소 선호 매우선호
+TRAVEL_STYL_5_1,여행스타일,"휴양, 휴식 선호 매우선호"
+TRAVEL_STYL_5_2,여행스타일,"휴양, 휴식 선호 중간선호"
+TRAVEL_STYL_5_3,여행스타일,"휴양, 휴식 선호 약간선호"
+TRAVEL_STYL_5_4,여행스타일,중립
+TRAVEL_STYL_5_5,여행스타일,체험활동 선호 약간선호
+TRAVEL_STYL_5_6,여행스타일,체험활동 선호 중간선호
+TRAVEL_STYL_5_7,여행스타일,체험활동 선호 매우선호
+TRAVEL_STYL_6_1,여행스타일,잘 알려지지 않은 방문지 선호 매우선호
+TRAVEL_STYL_6_2,여행스타일,잘 알려지지 않은 방문지 선호 중간선호
+TRAVEL_STYL_6_3,여행스타일,잘 알려지지 않은 방문지 선호 약간선호
+TRAVEL_STYL_6_4,여행스타일,중립
+TRAVEL_STYL_6_5,여행스타일,알려진 방문지 선호 약간선호
+TRAVEL_STYL_6_6,여행스타일,알려진 방문지 선호 중간선호
+TRAVEL_STYL_6_7,여행스타일,알려진 방문지 선호 매우선호
+TRAVEL_STYL_7_1,여행스타일,계획에 따른 여행 선호 매우선호
+TRAVEL_STYL_7_2,여행스타일,계획에 따른 여행 선호 중간선호
+TRAVEL_STYL_7_3,여행스타일,계획에 따른 여행 선호 약간선호
+TRAVEL_STYL_7_4,여행스타일,중립
+TRAVEL_STYL_7_5,여행스타일,상황에 따른 여행 선호 약간선호
+TRAVEL_STYL_7_6,여행스타일,상황에 따른 여행 선호 중간선호
+TRAVEL_STYL_7_7,여행스타일,상황에 따른 여행 선호 매우선호
+TRAVEL_STYL_8_1,여행스타일,사진촬영 중요하지 않음 선호 매우선호
+TRAVEL_STYL_8_2,여행스타일,사진촬영 중요하지 않음 선호 중간선호
+TRAVEL_STYL_8_3,여행스타일,사진촬영 중요하지 않음 선호 약간선호
+TRAVEL_STYL_8_4,여행스타일,중립
+TRAVEL_STYL_8_5,여행스타일,사진 촬영 중요 선호 약간선호
+TRAVEL_STYL_8_6,여행스타일,사진 촬영 중요 선호 중간선호
+TRAVEL_STYL_8_7,여행스타일,사진 촬영 중요 선호 매우선호

@@ -1,0 +1,1010 @@
+new_spot_id,rename,RESIDENCE_TIME_MIN,VISIT_AREA_TYPE_CD_1,VISIT_AREA_TYPE_CD_2,VISIT_AREA_TYPE_CD_3,VISIT_AREA_TYPE_CD_4,VISIT_AREA_TYPE_CD_5,VISIT_AREA_TYPE_CD_6,VISIT_AREA_TYPE_CD_7,VISIT_AREA_TYPE_CD_8,REVISIT_INTENTION,RCMDTN_INTENTION
+spot_1,원앙폭포,53.57142857142857,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.071428571428571,4.214285714285714
+spot_2,광치기해변,44.22413793103448,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.146551724137931,4.2844827586206895
+spot_3,소천지,36.66666666666666,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.277777777777778,4.333333333333333
+spot_5,청굴물,31.428571428571427,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",자연관광지,체험 활동 관광지,missing,missing,missing,missing,missing,4.571428571428571,4.571428571428571
+spot_6,섭지코지,60.92307692307692,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",자연관광지,"산책로, 둘레길 등",체험 활동 관광지,missing,missing,missing,missing,4.205128205128205,4.3538461538461535
+spot_7,금오름,64.5,자연관광지,"산책로, 둘레길 등",체험 활동 관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)","레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,4.38125,4.5375
+spot_8,정방폭포,42.0,자연관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)","산책로, 둘레길 등",체험 활동 관광지,missing,missing,missing,missing,4.128,4.28
+spot_9,교래자연휴양림,72.0,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.3,4.4
+spot_10,수목원길야시장,68.51351351351352,"상업지구(거리, 시장, 쇼핑시설)","테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,3.72972972972973,3.824324324324324
+spot_11,뽀로로앤타요테마파크 제주,203.4375,"테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,missing,4.34375,4.53125
+spot_12,제주시민속오일시장,54.70588235294117,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,4.235294117647059,4.294117647058823
+spot_13,성산일출봉,62.98192771084337,자연관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)","산책로, 둘레길 등",체험 활동 관광지,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,4.328313253012048,4.490963855421687
+spot_14,형제섬,140.0,체험 활동 관광지,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,4.333333333333333,4.666666666666667
+spot_15,제주아트센터,30.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,3.333333333333333,3.333333333333333
+spot_16,제주동문시장,53.78787878787879,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,4.112984822934233,4.114671163575042
+spot_18,중문대포주상절리대,46.875,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.919642857142857,4.142857142857143
+spot_19,용두암,36.46551724137931,자연관광지,"산책로, 둘레길 등",체험 활동 관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,3.8620689655172415,3.913793103448276
+spot_20,어리목광장,157.5,"산책로, 둘레길 등",자연관광지,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_23,포도뮤지엄,60.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,4.380952380952381,4.476190476190476
+spot_24,제주코코몽에코파크,221.53846153846155,"테마시설(놀이공원, 워터파크)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,3.923076923076923,3.8461538461538463
+spot_25,카멜리아힐,87.54545454545455,체험 활동 관광지,자연관광지,"산책로, 둘레길 등","문화 시설(공연장, 영화관, 전시관 등)","테마시설(놀이공원, 워터파크)",지역 축제/행사,missing,missing,4.136363636363637,4.245454545454545
+spot_26,신풍신천 바다목장길,37.5,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.25,4.25
+spot_27,한라수목원,56.4,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.08,4.06
+spot_29,신비의도로,33.0,자연관광지,체험 활동 관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,2.6,2.6
+spot_30,협재해수욕장,60.89820359281437,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.452095808383233,4.473053892215569
+spot_31,새별오름,65.40983606557377,자연관광지,"산책로, 둘레길 등",지역 축제/행사,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",체험 활동 관광지,missing,missing,missing,4.213114754098361,4.463114754098361
+spot_33,표선해수욕장,102.06896551724138,자연관광지,체험 활동 관광지,missing,missing,missing,missing,missing,missing,4.183908045977011,4.195402298850575
+spot_34,백약이오름,56.08695652173913,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.043478260869565,4.304347826086956
+spot_37,붉은오름자연휴양림,60.0,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.615384615384615,4.615384615384615
+spot_38,제주승마장,60.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,4.0,5.0
+spot_40,노형수퍼마켙,74.64285714285714,"문화 시설(공연장, 영화관, 전시관 등)",체험 활동 관광지,"테마시설(놀이공원, 워터파크)",자연관광지,missing,missing,missing,missing,3.595238095238096,4.178571428571429
+spot_41,용머리해안,53.60655737704918,자연관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)","산책로, 둘레길 등",체험 활동 관광지,missing,missing,missing,missing,3.959016393442623,4.122950819672131
+spot_42,이승이오름,84.375,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.1875,4.3125
+spot_43,제주i,45.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.5,4.0
+spot_44,제주동문재래야시장,54.729729729729726,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.918918918918919,4.0
+spot_46,따라비오름,87.6923076923077,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.346153846153846,4.538461538461538
+spot_47,아쿠아플라넷제주 오션아레나,153.51063829787233,"테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,missing,4.23404255319149,4.48936170212766
+spot_48,뷰제주하늘,60.0,체험 활동 관광지,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,3.5,3.5
+spot_49,헬로키티아일랜드,95.45454545454544,"테마시설(놀이공원, 워터파크)","역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)","문화 시설(공연장, 영화관, 전시관 등)",체험 활동 관광지,missing,missing,missing,missing,3.4545454545454546,3.954545454545455
+spot_50,돌염전,35.526315789473685,자연관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)","산책로, 둘레길 등",missing,missing,missing,missing,missing,3.5526315789473686,3.657894736842105
+spot_51,스누피가든,134.34065934065933,"문화 시설(공연장, 영화관, 전시관 등)",체험 활동 관광지,"테마시설(놀이공원, 워터파크)","산책로, 둘레길 등",자연관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)","상업지구(거리, 시장, 쇼핑시설)","레저/스포츠 관련 시설(스키, 카트, 수상레저)",4.2967032967032965,4.5989010989010985
+spot_52,고성오일시장,36.66666666666666,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.0,3.2222222222222223
+spot_53,반지만들기 은답하라99.9,90.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_54,오설록 티뮤지엄,63.080357142857146,"문화 시설(공연장, 영화관, 전시관 등)",자연관광지,"상업지구(거리, 시장, 쇼핑시설)",체험 활동 관광지,"테마시설(놀이공원, 워터파크)",missing,missing,missing,3.866071428571429,4.004464285714286
+spot_55,손지오름,90.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.5,3.5
+spot_57,한담해안산책로,52.71028037383178,"산책로, 둘레길 등",자연관광지,missing,missing,missing,missing,missing,missing,4.4672897196261685,4.5046728971962615
+spot_58,함덕해수욕장,60.30534351145038,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.468193384223919,4.539440203562341
+spot_59,제주국제감귤박람회,120.0,지역 축제/행사,missing,missing,missing,missing,missing,missing,missing,3.5,4.5
+spot_60,용연구름다리,28.846153846153847,자연관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)","산책로, 둘레길 등",missing,missing,missing,missing,missing,3.423076923076923,3.8461538461538463
+spot_62,우도,190.84337349397592,자연관광지,체험 활동 관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)","산책로, 둘레길 등",missing,missing,missing,missing,4.487951807228916,4.584337349397591
+spot_64,ICC제주국제컨벤션센터,150.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,3.9444444444444446,3.888888888888889
+spot_65,제주민속촌,98.70967741935485,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",자연관광지,지역 축제/행사,"테마시설(놀이공원, 워터파크)",체험 활동 관광지,missing,missing,missing,3.741935483870968,4.032258064516129
+spot_66,검멀레해변,33.292682926829265,자연관광지,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",체험 활동 관광지,missing,missing,missing,missing,missing,4.134146341463414,4.2317073170731705
+spot_67,월정리해수욕장,43.211009174311926,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.357798165137615,4.422018348623853
+spot_68,모구리야영장,570.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.5,4.5
+spot_69,서귀포치유의숲,112.34042553191487,자연관광지,"산책로, 둘레길 등","테마시설(놀이공원, 워터파크)",체험 활동 관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,4.085106382978723,4.170212765957447
+spot_71,산양큰엉곶,80.29411764705883,자연관광지,"산책로, 둘레길 등",체험 활동 관광지,missing,missing,missing,missing,missing,3.882352941176471,4.147058823529412
+spot_72,제주문화예술진흥원 제주문예회관,108.75,"문화 시설(공연장, 영화관, 전시관 등)",지역 축제/행사,missing,missing,missing,missing,missing,missing,4.875,4.875
+spot_73,은하감귤체험농장,52.5,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,3.5,4.0
+spot_74,수목원테마파크,92.4,"테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,missing,3.64,3.72
+spot_75,항파두리 항몽유적지,47.60869565217392,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,3.869565217391304,4.0
+spot_76,국립제주박물관,70.71428571428571,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,4.071428571428571,4.464285714285714
+spot_77,오션브리즈,165.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_78,천지연폭포,49.58083832335329,자연관광지,체험 활동 관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,3.964071856287425,4.197604790419161
+spot_81,남송이오름,45.0,"산책로, 둘레길 등",자연관광지,missing,missing,missing,missing,missing,missing,3.0,3.5
+spot_82,서귀포매일올레시장,53.66666666666666,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,4.114814814814815,4.142592592592592
+spot_83,비자림,72.97872340425532,자연관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)","산책로, 둘레길 등",체험 활동 관광지,missing,missing,missing,missing,4.042553191489362,4.23404255319149
+spot_84,신양섭지해수욕장,53.47826086956522,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.086956521739131,4.130434782608695
+spot_85,신화역사공원,82.5,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,4.5,4.5
+spot_86,닭머르,36.0,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.2,4.416666666666667
+spot_87,삼무공원,37.5,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,3.875,4.0
+spot_88,아르떼뮤지엄 제주,79.83471074380165,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,3.6942148760330578,4.280991735537191
+spot_89,수월봉,42.58064516129032,자연관광지,체험 활동 관광지,missing,missing,missing,missing,missing,missing,4.161290322580645,4.225806451612903
+spot_90,창꼼,38.0,자연관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)","산책로, 둘레길 등",missing,missing,missing,missing,missing,3.466666666666667,4.0
+spot_91,제주월령리선인장군락,37.27272727272727,자연관광지,"산책로, 둘레길 등","역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,4.181818181818182,4.424242424242424
+spot_92,김녕해수욕장,69.08450704225352,자연관광지,체험 활동 관광지,missing,missing,missing,missing,missing,missing,4.436619718309859,4.457746478873239
+spot_93,신흥해수욕장,60.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.666666666666667,4.666666666666667
+spot_94,에코랜드테마파크,141.8918918918919,"테마시설(놀이공원, 워터파크)",자연관광지,체험 활동 관광지,missing,missing,missing,missing,missing,4.013513513513513,4.1891891891891895
+spot_96,성산포JC공원,48.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.8,4.0
+spot_97,제주레일바이크,59.4,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.04,4.28
+spot_99,쇠소깍관광지,57.41721854304636,자연관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",체험 활동 관광지,"레저/스포츠 관련 시설(스키, 카트, 수상레저)","산책로, 둘레길 등",missing,missing,missing,3.947019867549669,4.1655629139072845
+spot_100,이중섭거리,50.64935064935065,"상업지구(거리, 시장, 쇼핑시설)","문화 시설(공연장, 영화관, 전시관 등)","역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,3.779220779220779,3.935064935064935
+spot_101,곽지해수욕장,65.42372881355932,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.288135593220339,4.361581920903955
+spot_102,중문색달해수욕장,78.67924528301887,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.066037735849057,4.066037735849057
+spot_103,사계해변,36.94214876033058,자연관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",체험 활동 관광지,missing,missing,missing,missing,missing,4.041322314049586,4.1735537190082646
+spot_104,천제연폭포,66.73469387755102,자연관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",지역 축제/행사,missing,missing,missing,missing,missing,4.36734693877551,4.428571428571429
+spot_105,남원큰엉해변,46.829268292682926,"산책로, 둘레길 등",자연관광지,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,4.170731707317073,4.2926829268292686
+spot_106,자구리문화예술공원,58.5,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.85,3.8
+spot_107,산방산,48.38709677419355,자연관광지,"산책로, 둘레길 등","역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",체험 활동 관광지,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,4.096774193548387,4.209677419354839
+spot_108,바이나흐튼 크리스마스박물관,41.53846153846154,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,3.3846153846153846,3.615384615384616
+spot_109,윈드1947카트테마파크,69.81818181818181,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,4.0181818181818185,4.090909090909091
+spot_110,비밀의숲,64.66019417475728,자연관광지,"산책로, 둘레길 등",체험 활동 관광지,missing,missing,missing,missing,missing,3.883495145631068,4.223300970873787
+spot_112,점보빌리지,106.875,체험 활동 관광지,"문화 시설(공연장, 영화관, 전시관 등)","테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,3.4375,3.8125
+spot_115,제주별책부록,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_116,제주차귀도요트투어,105.0,체험 활동 관광지,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,4.5,4.5
+spot_117,쇠소깍수상레저 전통테우,72.0,체험 활동 관광지,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,4.4,4.6
+spot_118,월정투명카약,69.0,체험 활동 관광지,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",자연관광지,missing,missing,missing,missing,missing,4.2,4.6
+spot_119,서귀포항,145.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",자연관광지,지역 축제/행사,체험 활동 관광지,"산책로, 둘레길 등",missing,missing,missing,4.166666666666667,4.25
+spot_120,더마파크,90.0,"테마시설(놀이공원, 워터파크)","문화 시설(공연장, 영화관, 전시관 등)",체험 활동 관광지,자연관광지,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,4.125,4.46875
+spot_122,동백동산습지센터,45.0,"문화 시설(공연장, 영화관, 전시관 등)",자연관광지,missing,missing,missing,missing,missing,missing,4.5,4.5
+spot_123,차귀도,67.5,자연관광지,체험 활동 관광지,missing,missing,missing,missing,missing,missing,3.5,3.75
+spot_124,서우봉,51.95121951219512,"산책로, 둘레길 등",자연관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)","레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,4.2682926829268295,4.414634146341464
+spot_125,도두봉,44.26829268292683,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.243902439024391,4.426829268292683
+spot_126,문도지오름,52.22222222222222,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.148148148148148,4.25925925925926
+spot_127,상효원수목원,91.62162162162164,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.891891891891892,4.27027027027027
+spot_128,제주성읍마을,58.064516129032256,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,3.935483870967742,3.935483870967742
+spot_129,산방산탄산온천,128.44660194174756,"테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,missing,4.300970873786408,4.427184466019417
+spot_130,이호테우해수욕장,54.75982532751092,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.179039301310044,4.235807860262009
+spot_131,금능해수욕장,68.1203007518797,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.526315789473684,4.541353383458647
+spot_132,세화해변,65.04950495049505,자연관광지,"상업지구(거리, 시장, 쇼핑시설)",체험 활동 관광지,"산책로, 둘레길 등",missing,missing,missing,missing,4.346534653465347,4.405940594059406
+spot_134,조랑말체험공원,42.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,3.2,3.8
+spot_135,보롬왓,69.23076923076923,체험 활동 관광지,자연관광지,"테마시설(놀이공원, 워터파크)","산책로, 둘레길 등",missing,missing,missing,missing,4.346153846153846,4.346153846153846
+spot_136,절물자연휴양림,75.68181818181819,자연관광지,체험 활동 관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,4.431818181818182,4.5227272727272725
+spot_137,렛츠런파크제주,139.0909090909091,"테마시설(놀이공원, 워터파크)",지역 축제/행사,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,3.4545454545454546,3.272727272727273
+spot_138,우도지석묘,30.0,자연관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)","산책로, 둘레길 등",missing,missing,missing,missing,missing,3.333333333333333,3.6666666666666665
+spot_139,도깨동산,45.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.5,3.5
+spot_141,휴애리자연생활공원,90.6,자연관광지,"테마시설(놀이공원, 워터파크)",체험 활동 관광지,지역 축제/행사,missing,missing,missing,missing,3.82,3.88
+spot_142,성이시돌목장,41.02941176470589,체험 활동 관광지,자연관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)","상업지구(거리, 시장, 쇼핑시설)","테마시설(놀이공원, 워터파크)","레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,3.632352941176471,3.838235294117647
+spot_143,루나폴,99.6,"테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,missing,4.0,4.4
+spot_144,개월이오름,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_145,노리매 매화공원,70.9090909090909,"테마시설(놀이공원, 워터파크)",자연관광지,"산책로, 둘레길 등",체험 활동 관광지,missing,missing,missing,missing,4.363636363636363,4.454545454545454
+spot_146,스카이워터쇼,82.5,"문화 시설(공연장, 영화관, 전시관 등)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,3.8333333333333335,3.9166666666666665
+spot_147,한림공원,87.90697674418605,자연관광지,체험 활동 관광지,missing,missing,missing,missing,missing,missing,4.069767441860465,4.325581395348837
+spot_148,아부오름,55.3125,자연관광지,"산책로, 둘레길 등",체험 활동 관광지,missing,missing,missing,missing,missing,3.875,4.25
+spot_151,한라산국립공원,410.1980198019802,자연관광지,체험 활동 관광지,"산책로, 둘레길 등","역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)","레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,4.405940594059406,4.633663366336633
+spot_152,바이제주,51.66666666666666,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,4.277777777777778,4.388888888888889
+spot_153,토토아뜰리에,135.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.333333333333333,4.333333333333333
+spot_154,더힐링타임,45.0,체험 활동 관광지,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,3.8,3.7
+spot_155,외돌개,50.55555555555556,자연관광지,"산책로, 둘레길 등","역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,4.333333333333333,4.351851851851852
+spot_156,군산오름 전망대,55.71428571428572,"산책로, 둘레길 등",자연관광지,missing,missing,missing,missing,missing,missing,3.7142857142857135,4.0
+spot_158,걸매생태공원,82.5,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_159,엉또폭포,39.0,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.4,4.3
+spot_160,제주동문수산시장,60.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.8333333333333335,3.9166666666666665
+spot_163,애월카페거리,61.76470588235294,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,4.235294117647059,4.313725490196078
+spot_164,도두봉공원,43.333333333333336,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.888888888888889,4.222222222222222
+spot_165,로봇플래닛,90.0,"문화 시설(공연장, 영화관, 전시관 등)","테마시설(놀이공원, 워터파크)",체험 활동 관광지,missing,missing,missing,missing,missing,3.5,3.8333333333333335
+spot_167,망루등대,17.142857142857142,자연관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",체험 활동 관광지,"산책로, 둘레길 등",missing,missing,missing,missing,3.571428571428572,3.571428571428572
+spot_168,산굼부리,69.609375,자연관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)","산책로, 둘레길 등",체험 활동 관광지,missing,missing,missing,missing,4.34375,4.5078125
+spot_169,화조원,102.85714285714286,체험 활동 관광지,"테마시설(놀이공원, 워터파크)",자연관광지,missing,missing,missing,missing,missing,4.142857142857143,4.380952380952381
+spot_170,너븐숭이4.3기념관,33.75,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,3.5,3.875
+spot_171,아끈다랑쉬오름,43.84615384615385,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,3.5384615384615383,3.692307692307693
+spot_172,동방파제,85.71428571428571,자연관광지,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",체험 활동 관광지,지역 축제/행사,missing,missing,missing,missing,4.285714285714286,4.285714285714286
+spot_173,용연계곡,37.0,자연관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,4.0,4.033333333333333
+spot_174,사려니숲길,70.08403361344538,자연관광지,"산책로, 둘레길 등",체험 활동 관광지,missing,missing,missing,missing,missing,4.369747899159663,4.487394957983193
+spot_175,금능석물원,45.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_176,서복전시관,35.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,3.25,3.25
+spot_177,제주현대미술관,63.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,4.46,4.5
+spot_178,우리 승마장,30.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,3.571428571428572,4.0
+spot_179,테디베어뮤지엄 제주점,58.57142857142857,"문화 시설(공연장, 영화관, 전시관 등)","상업지구(거리, 시장, 쇼핑시설)",체험 활동 관광지,missing,missing,missing,missing,missing,3.619047619047619,3.809523809523809
+spot_180,본태박물관,86.53846153846153,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,3.8846153846153846,4.307692307692308
+spot_181,파파빌레,60.0,지역 축제/행사,missing,missing,missing,missing,missing,missing,missing,3.5,3.5
+spot_182,제주맥주 양조장,91.66666666666669,체험 활동 관광지,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,3.555555555555556,3.888888888888889
+spot_184,넥슨컴퓨터박물관,113.1818181818182,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,3.954545454545455,4.5
+spot_187,명월팽나무군락,40.0,자연관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)","산책로, 둘레길 등",missing,missing,missing,missing,missing,3.6666666666666665,3.6666666666666665
+spot_188,어승생,80.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.666666666666667,4.666666666666667
+spot_189,하도해변,35.0,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.0,4.416666666666667
+spot_190,서프라이즈테마파크,60.0,"테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,missing,3.4,3.8
+spot_191,귤의 정원 바령,62.5,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.166666666666667,4.333333333333333
+spot_192,새연교,35.921052631578945,"산책로, 둘레길 등",자연관광지,체험 활동 관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)","레저/스포츠 관련 시설(스키, 카트, 수상레저)",지역 축제/행사,"상업지구(거리, 시장, 쇼핑시설)",missing,3.907894736842105,3.986842105263158
+spot_194,루나피크닉,90.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_195,밧돌오름,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,2.0,2.0
+spot_196,새별프렌즈,63.333333333333336,체험 활동 관광지,"테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,3.6666666666666665,3.888888888888889
+spot_197,제주국제평화센터,52.5,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,4.25,4.25
+spot_198,제주 세계자연유산센터,60.0,"문화 시설(공연장, 영화관, 전시관 등)",자연관광지,missing,missing,missing,missing,missing,missing,4.5,4.5
+spot_199,서빈백사,37.89473684210526,자연관광지,"산책로, 둘레길 등",체험 활동 관광지,missing,missing,missing,missing,missing,4.447368421052632,4.5
+spot_200,메밀꽃밭,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_201,이호테우등대,38.75,"테마시설(놀이공원, 워터파크)",자연관광지,"문화 시설(공연장, 영화관, 전시관 등)","산책로, 둘레길 등","역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,4.104166666666667,4.208333333333333
+spot_202,다이나믹메이즈 제주도성읍점,70.0,체험 활동 관광지,"테마시설(놀이공원, 워터파크)","레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,4.0,4.066666666666666
+spot_203,이레저버기카,60.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,3.0,4.0
+spot_204,방림원,60.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.25,4.0
+spot_205,일출랜드,90.0,자연관광지,"테마시설(놀이공원, 워터파크)",체험 활동 관광지,missing,missing,missing,missing,missing,3.25,4.0
+spot_206,쇠소깍전통나룻배,63.52941176470589,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,3.7058823529411766,3.941176470588236
+spot_207,엉덩물계곡,45.0,자연관광지,지역 축제/행사,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_208,성지도예,120.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.0,5.0
+spot_210,서귀포칠십리시공원,48.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.9,4.0
+spot_211,이중섭미술관,40.71428571428572,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,4.095238095238095,4.214285714285714
+spot_212,만장굴,73.09859154929578,체험 활동 관광지,자연관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",지역 축제/행사,missing,missing,missing,missing,3.591549295774648,4.014084507042254
+spot_213,감귤박물관,57.6,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,3.68,3.88
+spot_214,제주하늘을날다,60.0,자연관광지,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,4.0,4.333333333333333
+spot_215,이쁜선물가게,20.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_216,서귀포유람선,105.51724137931036,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,4.551724137931035,4.655172413793103
+spot_218,9.81파크,124.15841584158416,"레저/스포츠 관련 시설(스키, 카트, 수상레저)","테마시설(놀이공원, 워터파크)",체험 활동 관광지,missing,missing,missing,missing,missing,4.207920792079208,4.485148514851486
+spot_219,왈종미술관,42.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,3.6,4.066666666666666
+spot_220,제주항공우주박물관,123.65853658536584,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,3.5853658536585367,3.951219512195122
+spot_221,귤귤스토어,26.25,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.75,3.75
+spot_222,해녀박물관,52.5,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,3.775,4.05
+spot_223,지미봉,55.38461538461539,"산책로, 둘레길 등",자연관광지,missing,missing,missing,missing,missing,missing,4.230769230769231,4.461538461538462
+spot_224,메이즈랜드,75.0,"테마시설(놀이공원, 워터파크)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,3.2,3.6
+spot_225,신화워터파크,201.8181818181818,"테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,missing,4.0,4.045454545454546
+spot_226,화순금모래해수욕장,210.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.857142857142857,4.095238095238095
+spot_227,예나르제주공예박물관,30.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_228,훈데르트바서파크,61.875,"테마시설(놀이공원, 워터파크)","산책로, 둘레길 등","역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)","문화 시설(공연장, 영화관, 전시관 등)",체험 활동 관광지,missing,missing,missing,3.6041666666666665,3.75
+spot_229,하이제주,36.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,4.2,4.2
+spot_231,수산봉,42.0,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,3.533333333333333,3.933333333333333
+spot_233,종달리해변,35.0,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.5,4.5
+spot_234,피규어뮤지엄제주,55.71428571428572,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,4.142857142857143,4.285714285714286
+spot_235,상가리야자숲,31.363636363636363,자연관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,3.1818181818181817,3.5
+spot_236,큰엉,57.5,자연관광지,"산책로, 둘레길 등","역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,4.291666666666667,4.583333333333333
+spot_238,퐁당제주,60.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,4.5,4.5
+spot_239,제주곶자왈도립공원,90.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.3125,4.375
+spot_240,소정방폭포,34.285714285714285,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.0,3.142857142857143
+spot_241,산지등대,40.0,"문화 시설(공연장, 영화관, 전시관 등)","산책로, 둘레길 등","역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",자연관광지,missing,missing,missing,missing,4.333333333333333,4.333333333333333
+spot_242,거문오름,183.52941176470588,자연관광지,"산책로, 둘레길 등","역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,4.235294117647059,4.470588235294118
+spot_243,어음리억새군락지,44.48275862068966,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.068965517241379,4.241379310344827
+spot_244,노루생태관찰원,56.25,체험 활동 관광지,자연관광지,missing,missing,missing,missing,missing,missing,3.5,3.625
+spot_245,파더스가든,81.08108108108108,체험 활동 관광지,"테마시설(놀이공원, 워터파크)",자연관광지,missing,missing,missing,missing,missing,3.783783783783784,3.945945945945946
+spot_246,김녕사굴,60.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_249,제주도서핑샵 문서프,115.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,4.0,4.333333333333333
+spot_250,샤카서핑패들보드팀,105.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,4.0,3.5
+spot_251,제주해녀 항일운동기념공원,15.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,3.5,3.75
+spot_252,세계자동차&피아노박물관,96.3157894736842,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,4.2105263157894735,4.368421052631579
+spot_253,어영공원,40.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.148148148148148,4.37037037037037
+spot_254,서귀포칠십리축제,54.0,지역 축제/행사,missing,missing,missing,missing,missing,missing,missing,3.2,3.2
+spot_255,아라리오뮤지엄 탑동시네마,60.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,4.0,4.307692307692308
+spot_256,삼다수숲길,90.0,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.285714285714286,4.285714285714286
+spot_257,대비공원,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_258,제주축산진흥원 제주마 방목지,26.25,자연관광지,체험 활동 관광지,missing,missing,missing,missing,missing,missing,4.0625,4.1875
+spot_259,평대리해수욕장,71.37931034482759,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.172413793103448,4.206896551724138
+spot_260,한담몰,34.285714285714285,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.928571428571429,3.928571428571429
+spot_262,제주물,30.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_263,제주소품 함덕점,20.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,2.333333333333333,3.333333333333333
+spot_264,소인국테마파크,80.0,"테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,missing,3.583333333333333,3.9166666666666665
+spot_265,수목원테마파크 아이스뮤지엄,83.33333333333333,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,3.111111111111111,3.555555555555556
+spot_267,최남단 모슬포방어축제,80.0,지역 축제/행사,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_268,사계항,50.0,"산책로, 둘레길 등",자연관광지,missing,missing,missing,missing,missing,missing,4.0,3.6666666666666665
+spot_269,액티브파크,80.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,4.083333333333333,4.333333333333333
+spot_270,사라봉,56.47058823529412,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.235294117647059,4.235294117647059
+spot_273,유난히아름다운오늘,135.0,"상업지구(거리, 시장, 쇼핑시설)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,2.0,2.5
+spot_274,하고수동해변,48.46153846153846,자연관광지,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,4.269230769230769,4.307692307692308
+spot_275,산양곶자왈,70.0,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.0,3.6666666666666665
+spot_276,서귀포향토오일시장,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.7777777777777777,3.7777777777777777
+spot_277,하도어촌체험마을,165.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,3.5,4.0
+spot_278,세화민속오일시장,40.71428571428572,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.9642857142857135,3.928571428571429
+spot_279,고흐의정원,79.0909090909091,"문화 시설(공연장, 영화관, 전시관 등)","테마시설(놀이공원, 워터파크)",체험 활동 관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",자연관광지,missing,missing,missing,3.727272727272727,4.363636363636363
+spot_281,제주자연생태공원,60.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.333333333333333,4.333333333333333
+spot_282,신창풍차해안,48.333333333333336,자연관광지,"산책로, 둘레길 등",체험 활동 관광지,missing,missing,missing,missing,missing,4.138888888888889,4.138888888888889
+spot_283,여미지식물원,72.22222222222223,"테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,missing,3.5185185185185186,3.703703703703704
+spot_284,코코넛서프 서핑스쿨,144.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",체험 활동 관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,4.4,4.6
+spot_285,화순곶자왈,55.0,"산책로, 둘레길 등",자연관광지,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_286,문화예술 공공수장고,32.5,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,4.25,4.5
+spot_287,제주홀스타승마장,30.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,3.0,4.0
+spot_288,목장카페드르쿰다,78.64864864864865,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,4.054054054054054,4.216216216216216
+spot_290,제주동문공설시장,65.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.8333333333333335,3.8333333333333335
+spot_291,휘닉스제주 글라스하우스,67.5,"레저/스포츠 관련 시설(스키, 카트, 수상레저)","문화 시설(공연장, 영화관, 전시관 등)",자연관광지,missing,missing,missing,missing,missing,5.0,5.0
+spot_292,제스토리,37.5,"상업지구(거리, 시장, 쇼핑시설)","역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,3.625,3.875
+spot_293,서귀포잠수함,95.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,3.7916666666666665,4.291666666666667
+spot_294,삼다초콜릿체험장,60.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_296,돈내코유원지,54.0,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,3.8,4.0
+spot_298,고스트타운,67.5,체험 활동 관광지,"테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,3.5,4.0
+spot_300,반지마을 제주1호점,90.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_301,환상숲곶자왈공원,98.1818181818182,자연관광지,"테마시설(놀이공원, 워터파크)",체험 활동 관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,4.545454545454546,4.7727272727272725
+spot_302,수산저수지,50.0,"산책로, 둘레길 등",자연관광지,missing,missing,missing,missing,missing,missing,3.6666666666666665,3.6666666666666665
+spot_303,한담해변,53.57142857142857,자연관광지,"산책로, 둘레길 등","상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,4.404761904761905,4.476190476190476
+spot_304,이중섭미술관 창작스튜디오&공예공방,30.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_306,우스커피,60.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_307,트리아이숲로프체험장,300.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_308,디아넥스 온천,100.0,"테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_309,중문레져UTV,70.0,체험 활동 관광지,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,3.333333333333333,4.333333333333333
+spot_311,황우치해변,85.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.8333333333333335,3.8333333333333335
+spot_312,서귀포천문과학문화관,69.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",체험 활동 관광지,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,4.6,4.7
+spot_313,차귀도달래배낚시,105.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,3.9,4.2
+spot_314,세계술박물관,50.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,3.0,4.0
+spot_315,삼선암,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.5,4.625
+spot_317,생이기정,40.0,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,3.6666666666666665,4.0
+spot_318,김녕리도대불,15.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,4.0,4.5
+spot_319,수마포해안,40.0,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.333333333333333,4.333333333333333
+spot_320,산방산랜드,60.0,"테마시설(놀이공원, 워터파크)",체험 활동 관광지,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,4.0,4.1
+spot_321,환해장성,130.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",자연관광지,missing,missing,missing,missing,missing,missing,4.0,3.333333333333333
+spot_322,너도나도ATV,75.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_323,위미항,90.0,자연관광지,체험 활동 관광지,"산책로, 둘레길 등","레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,4.111111111111111,4.111111111111111
+spot_324,쇠머리오름,42.5,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.166666666666667,4.333333333333333
+spot_325,제주실탄사격장,41.42857142857143,체험 활동 관광지,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",자연관광지,missing,missing,missing,missing,missing,4.238095238095238,4.380952380952381
+spot_326,마노르블랑,63.57142857142857,체험 활동 관광지,자연관광지,"산책로, 둘레길 등","테마시설(놀이공원, 워터파크)",지역 축제/행사,missing,missing,missing,3.809523809523809,4.047619047619048
+spot_327,도치돌목장,70.9090909090909,체험 활동 관광지,"테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,3.909090909090909,4.2727272727272725
+spot_328,제주추사관,51.42857142857143,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,4.142857142857143,4.285714285714286
+spot_331,하우목동항,45.0,자연관광지,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",체험 활동 관광지,missing,missing,missing,missing,missing,4.416666666666667,4.416666666666667
+spot_333,중문관광단지 별내린전망대,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_335,산물관광농원,55.71428571428572,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)","상업지구(거리, 시장, 쇼핑시설)",자연관광지,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,3.571428571428572,3.571428571428572
+spot_336,기당미술관,40.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,4.066666666666666,4.266666666666667
+spot_337,제주에인감귤밭,90.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_338,대병악,90.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,2.0,3.0
+spot_340,한라산국립공원 산악박물관,30.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,1.0,3.0
+spot_341,제주레포츠랜드,45.0,"테마시설(놀이공원, 워터파크)","레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,3.75,3.75
+spot_343,제주서핑스쿨,150.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_344,대정오일시장,47.142857142857146,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,4.142857142857143,4.142857142857143
+spot_345,휘닉스제주 유민미술관,58.125,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,4.4375,4.4375
+spot_346,제주신화월드 신화관 스카이풀,96.42857142857144,"테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,missing,4.5,4.428571428571429
+spot_347,협자연대,30.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_348,퍼시픽 마리나요트계류장,100.0,체험 활동 관광지,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,4.833333333333333,4.833333333333333
+spot_351,제주해양레저타운,60.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,3.5,4.0
+spot_353,도두항,48.75,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.625,4.625
+spot_355,쉬리의언덕,30.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)","산책로, 둘레길 등",자연관광지,missing,missing,missing,missing,missing,4.4,4.4
+spot_356,모슬포항,85.0,"상업지구(거리, 시장, 쇼핑시설)","산책로, 둘레길 등",자연관광지,missing,missing,missing,missing,missing,3.6666666666666665,4.0
+spot_357,성수미술관 제주특별점,150.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_358,하논,45.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",자연관광지,missing,missing,missing,missing,missing,missing,4.25,4.25
+spot_360,캐니언파크 제주점,67.5,"테마시설(놀이공원, 워터파크)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,3.75,4.0
+spot_362,서우봉 산책로,52.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,4.266666666666667,4.333333333333333
+spot_364,레이져서바이벌M,30.0,체험 활동 관광지,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,4.333333333333333,4.0
+spot_365,제주스쿠터투어,30.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,1.0,1.0
+spot_366,시와스튜디오,60.0,"문화 시설(공연장, 영화관, 전시관 등)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,4.25,4.5
+spot_367,건강과성박물관,70.58823529411765,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,2.823529411764706,3.588235294117647
+spot_368,느지리오름,38.57142857142857,"산책로, 둘레길 등",자연관광지,missing,missing,missing,missing,missing,missing,3.2857142857142856,3.4285714285714284
+spot_369,지두청사,60.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.333333333333333
+spot_370,과물노천탕,25.714285714285715,자연관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,3.4285714285714284,3.571428571428572
+spot_371,석예원 본초족욕 성산,42.0,"테마시설(놀이공원, 워터파크)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,4.2,4.3
+spot_372,천아계곡,71.25,"산책로, 둘레길 등",자연관광지,missing,missing,missing,missing,missing,missing,4.5625,4.5625
+spot_373,제주특별자치도 민속자연사박물관,52.94117647058823,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,3.882352941176471,4.0
+spot_374,중문미로파크,52.5,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,2.75,3.5
+spot_375,제주목 관아,44.34782608695652,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,3.652173913043478,4.130434782608695
+spot_377,작가의산책길,50.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,3.888888888888889,3.888888888888889
+spot_378,중문골프연습장,60.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_379,안돌오름,53.57142857142857,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.071428571428571,4.214285714285714
+spot_380,다랑쉬오름,74.0,"산책로, 둘레길 등",자연관광지,missing,missing,missing,missing,missing,missing,3.8666666666666663,4.3
+spot_382,삼매봉,40.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.333333333333333,3.0
+spot_383,제주라프,62.30769230769231,체험 활동 관광지,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,4.076923076923077,4.153846153846154
+spot_384,관곶,42.0,자연관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,4.2,4.2
+spot_385,와흘메밀농촌체험휴양마을,46.45161290322581,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.161290322580645,4.225806451612903
+spot_386,송악산,68.03571428571429,자연관광지,체험 활동 관광지,missing,missing,missing,missing,missing,missing,4.464285714285714,4.607142857142857
+spot_387,제주제트 중문점,57.5,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,4.75,5.0
+spot_389,한라산국립공원 관음사지구야영장,37.0,자연관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)","산책로, 둘레길 등",missing,missing,missing,missing,missing,4.3,4.4
+spot_390,수월봉지질트레일,45.6,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.36
+spot_391,포레스트사파리,60.0,"문화 시설(공연장, 영화관, 전시관 등)",자연관광지,"테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,4.2,4.4
+spot_393,텐저린267,60.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.428571428571429,4.428571428571429
+spot_394,장한철 생가,41.25,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,3.25,3.5
+spot_395,더플래닛,30.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,2.0,2.0
+spot_396,알작지해변,47.142857142857146,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_397,천미천,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.5,4.5
+spot_398,송정농원,60.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,2.6666666666666665,3.333333333333333
+spot_399,싱계물공원,60.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.3478260869565215,4.304347826086956
+spot_400,삼양해수욕장,60.78947368421053,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.184210526315789
+spot_401,무민랜드제주,117.6923076923077,"문화 시설(공연장, 영화관, 전시관 등)","테마시설(놀이공원, 워터파크)","역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",체험 활동 관광지,missing,missing,missing,missing,3.923076923076923,4.230769230769231
+spot_402,강정해오름노을길,30.0,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_404,제주해양동물박물관,81.42857142857143,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,3.857142857142857,4.0
+spot_407,이중섭거주지,20.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,3.6666666666666665,3.8333333333333335
+spot_408,탑동광장,53.25,"산책로, 둘레길 등","문화 시설(공연장, 영화관, 전시관 등)","상업지구(거리, 시장, 쇼핑시설)",지역 축제/행사,자연관광지,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",체험 활동 관광지,missing,3.875,3.9
+spot_409,로로패들보드클럽,240.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_411,기억해제주,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_412,궷물오름,60.0,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_413,김녕미로공원,78.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.8666666666666663,4.2
+spot_416,별도봉산책로,60.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,5.0,4.5
+spot_417,가마오름,60.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_418,제주아리랑,90.0,"문화 시설(공연장, 영화관, 전시관 등)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,4.5,4.666666666666667
+spot_419,제주안전체험관,87.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.6,4.7
+spot_421,세기알해변,76.15384615384616,자연관광지,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,4.769230769230769,4.846153846153846
+spot_423,월정스캔들,30.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_424,사라봉공원,48.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.1,4.5
+spot_426,함덕리486,15.0,"상업지구(거리, 시장, 쇼핑시설)",자연관광지,missing,missing,missing,missing,missing,missing,3.5,3.5
+spot_427,휘닉스제주섭지코지 해안산책로,110.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,4.333333333333333,4.666666666666667
+spot_428,서림연대,0.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_429,수모루공원,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,2.0,3.0
+spot_430,산짓물공원,60.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_431,녹차동굴,47.142857142857146,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.142857142857143,4.428571428571429
+spot_432,빛의 벙커,79.0909090909091,"문화 시설(공연장, 영화관, 전시관 등)","테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,4.2727272727272725,4.409090909090909
+spot_433,낙타트래킹,47.64705882352941,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,3.882352941176471,4.176470588235294
+spot_435,우도산호해변,34.54545454545455,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.424242424242424,4.575757575757576
+spot_436,우도잠수함,102.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.2,4.6
+spot_437,선물고팡 함덕점,35.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.333333333333333,3.6666666666666665
+spot_438,세계조가비박물관,40.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,3.0,3.6666666666666665
+spot_440,서귀다원,76.66666666666667,체험 활동 관광지,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,3.888888888888889,4.111111111111111
+spot_441,휴애리핑크뮬리축제,77.14285714285714,지역 축제/행사,missing,missing,missing,missing,missing,missing,missing,3.7142857142857135,3.857142857142857
+spot_443,원당봉,75.0,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.0,5.0
+spot_444,목화오름,90.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_446,토종흑염소목장,75.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.25,4.25
+spot_447,라온골프클럽,345.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,4.5,4.5
+spot_448,오저여,46.15384615384615,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.461538461538462,4.538461538461538
+spot_450,제주환상자전거길 1구간,52.5,"산책로, 둘레길 등",체험 활동 관광지,missing,missing,missing,missing,missing,missing,4.0,4.25
+spot_451,도시해녀,180.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_452,우도선상낚시,150.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_453,문섬,210.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,4.8,4.8
+spot_455,제주신화월드 신화쇼핑스트리트,46.66666666666666,"상업지구(거리, 시장, 쇼핑시설)","테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,3.2222222222222223,3.2222222222222223
+spot_457,세리월드 카트레이싱,50.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,3.6666666666666665,4.0
+spot_458,제주불빛정원,56.25,"테마시설(놀이공원, 워터파크)","문화 시설(공연장, 영화관, 전시관 등)",지역 축제/행사,missing,missing,missing,missing,missing,3.125,3.625
+spot_460,진성배낚시,156.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.6,4.6
+spot_461,레이저아레나 엑스 제주점,66.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",체험 활동 관광지,"테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,4.4,5.0
+spot_462,섶섬,210.0,체험 활동 관광지,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",자연관광지,missing,missing,missing,missing,missing,4.4,4.4
+spot_463,캔디원,72.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,3.4,3.6
+spot_465,옥돔마을,60.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_467,김영갑갤러리두모악,49.09090909090909,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,3.727272727272727,4.181818181818182
+spot_468,용담체육공원,60.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_469,걸서악,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_472,한담공원,60.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.6,4.8
+spot_473,제주돌마을공원,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_474,제주도립김창열미술관,45.6,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,4.0,4.16
+spot_475,브릭캠퍼스 제주,80.0,"테마시설(놀이공원, 워터파크)","문화 시설(공연장, 영화관, 전시관 등)",체험 활동 관광지,missing,missing,missing,missing,missing,4.222222222222222,4.555555555555555
+spot_477,범섬,25.714285714285715,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.571428571428571,4.571428571428571
+spot_478,한림매일시장,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.5,2.75
+spot_481,우보악,60.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_482,산지천,42.0,"산책로, 둘레길 등",지역 축제/행사,missing,missing,missing,missing,missing,missing,4.4,4.2
+spot_484,제주4.3평화공원,58.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",자연관광지,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,4.333333333333333,4.333333333333333
+spot_485,누웨마루거리,56.66666666666666,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.888888888888889,3.888888888888889
+spot_486,안덕계곡,47.5,자연관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,4.166666666666667,4.25
+spot_487,우도등대공원,45.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.75,3.75
+spot_488,자구리 해안가,40.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.333333333333333,3.333333333333333
+spot_490,제주항일기념관,45.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,4.5,4.5
+spot_491,톨칸이해변,0.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_492,산방산 유람선,67.5,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,3.75,4.25
+spot_493,뱅듸승마클럽,75.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_494,탐라문화광장,45.0,"문화 시설(공연장, 영화관, 전시관 등)",지역 축제/행사,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,3.5,3.75
+spot_495,언더워터스쿠버,220.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_496,제주허브동산,74.34782608695652,"테마시설(놀이공원, 워터파크)",체험 활동 관광지,자연관광지,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,4.043478260869565,4.173913043478261
+spot_498,별방진,35.294117647058826,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",자연관광지,missing,missing,missing,missing,missing,missing,3.588235294117647,3.764705882352941
+spot_500,고근산 산책로,60.0,"산책로, 둘레길 등",자연관광지,missing,missing,missing,missing,missing,missing,4.666666666666667,4.666666666666667
+spot_501,금호리조트 제주아쿠아나,195.0,"테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,missing,4.333333333333333,4.5
+spot_502,공천포,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_503,그리스신화박물관,76.66666666666667,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,3.0,3.333333333333333
+spot_504,올티스,90.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.5
+spot_505,이룸갤러리,70.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,3.0,3.333333333333333
+spot_506,문화공간비수기,150.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,5.0,4.0
+spot_507,아프리카박물관,66.66666666666667,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,3.333333333333333,3.4444444444444446
+spot_508,섯알오름,60.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_509,제주아트서커스,80.76923076923077,"문화 시설(공연장, 영화관, 전시관 등)","테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,4.115384615384615,4.269230769230769
+spot_510,비양도등대,50.0,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.666666666666667,4.666666666666667
+spot_512,본초족욕,60.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.333333333333333,4.333333333333333
+spot_513,봉봉감귤체험농장,60.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.666666666666667,4.666666666666667
+spot_516,저지예술정보화마을,40.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,4.0,4.333333333333333
+spot_517,제주오름승마랜드,52.5,체험 활동 관광지,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,4.5,5.0
+spot_519,선녀와나무꾼 테마공원,77.5,"테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,missing,3.583333333333333,3.9166666666666665
+spot_520,김서프제주,131.25,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,4.25,4.125
+spot_521,하효항,105.0,자연관광지,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",체험 활동 관광지,missing,missing,missing,missing,missing,3.75,3.75
+spot_522,추사유배지,37.5,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,4.125,4.375
+spot_523,서프앤조이,195.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,4.5,4.5
+spot_524,제주커피박물관 바움,45.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,4.333333333333333,4.333333333333333
+spot_529,용두암해수랜드,120.0,"테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,missing,4.666666666666667,4.333333333333333
+spot_532,고배기 동산,30.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,2.0,2.0
+spot_533,도두몰,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.5,3.5
+spot_534,혼인지,40.90909090909091,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",자연관광지,missing,missing,missing,missing,missing,missing,3.636363636363636,3.636363636363636
+spot_535,비양봉,60.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_537,논짓물해수족욕카페,54.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,3.8,4.0
+spot_540,제주 종달리전망대,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.5
+spot_544,수월봉전망대,40.90909090909091,자연관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)","산책로, 둘레길 등",missing,missing,missing,missing,missing,4.090909090909091,4.090909090909091
+spot_545,선물고팡 제주공항점,40.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_546,끌로드아트홀,300.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_547,서프블루,150.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,4.333333333333333,4.333333333333333
+spot_549,삼양방파제,60.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_550,섭지코지전망대,30.0,"산책로, 둘레길 등","역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,4.333333333333333,4.333333333333333
+spot_553,송당무끈모루,34.0,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,3.4,3.8666666666666663
+spot_554,터진목,30.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,3.5,4.5
+spot_557,엉불턱 우도전망대,30.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_558,미령이네감귤체험농장,60.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_559,초콜릿랜드,90.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.0,3.5
+spot_560,우도팔경동굴보트,30.0,체험 활동 관광지,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,4.5,4.5
+spot_561,편백나무숲,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_562,선물고팡 협재점,40.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.6666666666666665,4.0
+spot_563,제주로컬 썸제주,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,4.4,4.6
+spot_564,서복공원,20.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.333333333333333,3.6666666666666665
+spot_565,한동리 해맞이 해안로,30.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_566,송당승마장,45.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_567,골프존카운티 오라,0.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_568,삼성혈,43.63636363636363,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",자연관광지,missing,missing,missing,missing,missing,missing,3.863636363636364,4.136363636363637
+spot_569,베케,50.0,자연관광지,"테마시설(놀이공원, 워터파크)",체험 활동 관광지,missing,missing,missing,missing,missing,5.0,5.0
+spot_571,오션트래블러,60.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_572,우도올레보트,41.25,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,4.625,4.75
+spot_576,우도해양도립공원,135.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.75,4.75
+spot_577,모슬포중앙시장,42.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,2.6,3.6
+spot_578,연동연대,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_579,퍼시픽리솜 요트투어샹그릴라,80.0,체험 활동 관광지,"산책로, 둘레길 등",자연관광지,missing,missing,missing,missing,missing,3.6666666666666665,4.0
+spot_580,안녕성산,35.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.333333333333333,4.333333333333333
+spot_582,물의도시 베니스랜드,60.0,자연관광지,체험 활동 관광지,"테마시설(놀이공원, 워터파크)","역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)","문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,3.333333333333333,4.166666666666667
+spot_583,귤향체험농장,30.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,3.5,4.0
+spot_584,유채꽃프라자,68.0,자연관광지,"산책로, 둘레길 등","상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,4.133333333333334,4.266666666666667
+spot_585,정물오름,56.25,체험 활동 관광지,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,3.75,3.75
+spot_586,가시리마을4.3길센터,45.0,"문화 시설(공연장, 영화관, 전시관 등)","역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,5.0,4.0
+spot_587,이호체험배낚시,120.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_590,개똥이네농장,120.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_593,쇠물깍,30.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",자연관광지,missing,missing,missing,missing,missing,missing,3.5,4.0
+spot_594,제주밭담테마공원,15.0,"테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,missing,2.75,2.5
+spot_595,용마마을,41.25,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,4.375,4.25
+spot_597,디자인에이비,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,1.0,3.0
+spot_598,한수리방파제,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_599,표선해수욕장 야영장,60.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_600,어승생승마장,50.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_601,박수기정,43.84615384615385,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.0,4.153846153846154
+spot_602,캐슬렉스제주,255.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_603,설문대여성문화센터,70.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,3.6666666666666665,3.333333333333333
+spot_604,하영담아,90.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.5
+spot_605,신산공원,90.0,지역 축제/행사,자연관광지,"산책로, 둘레길 등","테마시설(놀이공원, 워터파크)",체험 활동 관광지,missing,missing,missing,4.214285714285714,4.0
+spot_606,엉내공원,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_607,현애원&카페이스틀리,60.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.5,4.5
+spot_608,한림항,45.0,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.5,4.5
+spot_609,논짓물해변,56.66666666666666,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.222222222222222,4.222222222222222
+spot_611,감귤따기체험장,60.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_612,새미동산,75.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,3.5,3.5
+spot_613,도련감귤나무숲,73.33333333333333,체험 활동 관광지,자연관광지,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_615,인생네컷 제주인생트레일러점,30.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,2.0,3.0
+spot_617,서귀포예술의전당,65.21739130434783,"문화 시설(공연장, 영화관, 전시관 등)","역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,4.130434782608695,4.260869565217392
+spot_618,크랙온,120.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_619,우도사람들렌트,30.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_620,곱뜨락아띠,180.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_621,두모방파제,40.0,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.666666666666667,4.0
+spot_623,종달리 고망난돌 쉼터,40.0,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_624,라인업서프 하도,240.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_625,그림포레스트,30.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,4.0,5.0
+spot_626,서귀포층 패류화석산지,30.0,자연관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_628,큰노꼬메오름,124.28571428571428,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.571428571428571,5.0
+spot_629,제주돌문화공원,76.0,자연관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,4.6,4.8
+spot_633,군산오름 등산로 입구,45.0,"산책로, 둘레길 등",자연관광지,missing,missing,missing,missing,missing,missing,3.8333333333333335,3.8333333333333335
+spot_634,서귀포자연휴양림,110.76923076923076,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,3.923076923076923,4.461538461538462
+spot_635,왕이메오름,62.72727272727273,체험 활동 관광지,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,4.090909090909091,4.181818181818182
+spot_637,루트서프,270.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,3.5,3.5
+spot_640,해녀의태왁,60.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,2.0,3.0
+spot_643,황개천교,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.0,3.0
+spot_644,대수산봉,60.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.333333333333333,4.333333333333333
+spot_646,제주삼양동유적,30.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,3.5,4.0
+spot_647,저지예술인마을,45.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,4.0,3.5
+spot_650,저지오름,84.0,"산책로, 둘레길 등",자연관광지,missing,missing,missing,missing,missing,missing,3.6,3.8
+spot_652,팜파스 갈대정원,38.57142857142857,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.142857142857143,3.142857142857143
+spot_653,흑돼지거리,20.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.6666666666666665,3.6666666666666665
+spot_656,삼다수목장,60.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",체험 활동 관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,4.666666666666667,5.0
+spot_657,박물관은살아있다 제주중문점,75.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,3.7,3.8
+spot_658,보름왓메밀밭,84.0,자연관광지,체험 활동 관광지,missing,missing,missing,missing,missing,missing,3.6,3.8
+spot_659,제주사월,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,4.4,4.4
+spot_660,굿다이버,30.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_663,물영아리,66.92307692307692,"산책로, 둘레길 등",자연관광지,missing,missing,missing,missing,missing,missing,4.076923076923077,4.230769230769231
+spot_668,수풍석뮤지엄,66.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,3.6,3.8
+spot_670,남도리쉼터,22.5,"산책로, 둘레길 등",자연관광지,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_671,숨도,87.0,"테마시설(놀이공원, 워터파크)","역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,3.9,4.0
+spot_673,아일랜드조이,90.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_675,제주거울미로 이상한나라의 앨리스,42.0,"문화 시설(공연장, 영화관, 전시관 등)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,1.6,2.4
+spot_676,북촌환해장성,30.0,자연관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,3.333333333333333,4.0
+spot_677,한라생태숲,84.0,자연관광지,"테마시설(놀이공원, 워터파크)",지역 축제/행사,체험 활동 관광지,missing,missing,missing,missing,3.8666666666666663,4.2
+spot_678,돈내코계곡,50.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.666666666666667,4.333333333333333
+spot_679,하효쇠소깍해변,51.66666666666666,자연관광지,"산책로, 둘레길 등",체험 활동 관광지,missing,missing,missing,missing,missing,4.111111111111111,4.277777777777778
+spot_680,세리월드,55.71428571428572,"레저/스포츠 관련 시설(스키, 카트, 수상레저)","테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,3.0,3.142857142857143
+spot_681,플레이인더박스 제주,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,2.0,3.0
+spot_682,거슨세미오름,90.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.0,2.5
+spot_684,비양도망대,34.61538461538461,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.230769230769231,4.307692307692308
+spot_685,영락리 방파제,40.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_688,파인더웨이브,240.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_689,섭지방파제,30.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_690,백록담,90.0,자연관광지,"산책로, 둘레길 등","역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,4.444444444444445,4.777777777777778
+spot_691,서문공설시장,42.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.8,4.0
+spot_692,우도정원,39.0,"테마시설(놀이공원, 워터파크)",자연관광지,"문화 시설(공연장, 영화관, 전시관 등)",체험 활동 관광지,missing,missing,missing,missing,3.3,3.6
+spot_693,족은노꼬메오름,70.0,"산책로, 둘레길 등",자연관광지,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_696,윈썸제주,90.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_698,퍼시픽리솜 마린스테이지,75.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)","문화 시설(공연장, 영화관, 전시관 등)","테마시설(놀이공원, 워터파크)",체험 활동 관광지,missing,missing,missing,missing,4.0,4.0
+spot_699,마보기,60.0,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,3.333333333333333,4.0
+spot_701,서부두명품횟집거리,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_702,영주산,96.66666666666669,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.555555555555555,4.666666666666667
+spot_704,마린뷰티,60.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_706,제주조천스위스마을,72.0,"산책로, 둘레길 등","상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,3.333333333333333,3.4
+spot_707,사진놀이터,66.66666666666667,"문화 시설(공연장, 영화관, 전시관 등)",체험 활동 관광지,"테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,3.555555555555556,4.111111111111111
+spot_708,식산봉,48.0,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.6,4.6
+spot_709,오르머,45.0,체험 활동 관광지,자연관광지,missing,missing,missing,missing,missing,missing,4.0,4.25
+spot_710,매오름,80.0,"산책로, 둘레길 등",체험 활동 관광지,자연관광지,missing,missing,missing,missing,missing,4.333333333333333,4.666666666666667
+spot_711,아뮤제,60.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_713,제주통일관,90.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_714,쇠소깍제트보트,52.5,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,4.5,4.5
+spot_715,상효원튤립축제,90.0,지역 축제/행사,missing,missing,missing,missing,missing,missing,missing,4.5,4.5
+spot_717,오늘은카트레이싱,48.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,4.2,4.0
+spot_720,신천목장,45.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_721,컨테이너야드협재타운,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,2.0,3.0
+spot_722,칠성로쇼핑거리,77.14285714285714,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.928571428571429,3.7857142857142856
+spot_723,제주시산림조합 나무시장,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_724,한남시험림탐방,170.0,"산책로, 둘레길 등",자연관광지,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_725,보내다제주,30.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,3.0,4.0
+spot_726,우도성산유람선,0.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_729,홍조단괴해빈,50.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.333333333333333,4.333333333333333
+spot_730,큰바리메,36.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.6,3.6
+spot_731,태웃개,96.0,자연관광지,체험 활동 관광지,missing,missing,missing,missing,missing,missing,4.9,4.9
+spot_732,바램,75.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,3.5,4.0
+spot_734,아라리오뮤지엄 동문모텔2,60.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,4.5,4.5
+spot_736,제주애퐁당 쇠소깍점,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_737,관덕정,31.666666666666668,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)","산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,3.8333333333333335,3.888888888888889
+spot_738,김택화미술관,60.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_739,제주웨이브서핑,150.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_740,탐라승마장,37.5,체험 활동 관광지,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,2.0,2.0
+spot_741,화순 곶자왈생태탐방숲길,54.0,자연관광지,체험 활동 관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,4.6,4.8
+spot_743,산지천갤러리,30.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_747,동한두기,30.0,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.333333333333333,4.333333333333333
+spot_748,하모체육공원,30.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_749,상동포구,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_750,예래팜 창천점,60.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.333333333333333,4.666666666666667
+spot_753,하례감귤체험농장,60.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.454545454545454,4.454545454545454
+spot_755,거린사슴 전망대,32.5,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.9166666666666665,4.25
+spot_756,황우지해안열두굴,60.0,자연관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,4.0,4.5
+spot_758,강정천,75.0,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.25,4.25
+spot_759,해거름마을공원 인증센터,25.714285714285715,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.571428571428571,4.571428571428571
+spot_761,타이거탱크 힐링파크,75.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.5,4.5
+spot_762,김녕바닷길,40.0,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_763,제주귤향기,60.0,"상업지구(거리, 시장, 쇼핑시설)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_767,국제리더스클럽,48.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,3.8,4.8
+spot_768,제주왕감귤체험농장,60.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.5,4.5
+spot_769,더마파크 더마카트,60.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,2.5,3.0
+spot_771,우리들컨트리클럽,390.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_772,애월환해장성,0.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,2.0,2.0
+spot_773,세리승마,30.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,2.0,2.0
+spot_774,조안베어뮤지엄,60.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,3.0,4.0
+spot_775,위호텔 야외수영장,150.0,"테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,missing,4.5,4.5
+spot_777,서우봉 일몰지,30.0,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_778,당오름,90.0,자연관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_779,달콤다락,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_780,제주중문관광단지,69.0,"테마시설(놀이공원, 워터파크)",자연관광지,"상업지구(거리, 시장, 쇼핑시설)","산책로, 둘레길 등",지역 축제/행사,missing,missing,missing,3.8,3.8
+spot_781,창고망난돌,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.333333333333333,3.6666666666666665
+spot_782,항파두리 항몽유적지 나홀로나무,22.5,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",자연관광지,missing,missing,missing,missing,missing,missing,3.75,3.75
+spot_783,귀덕궤물동산,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_784,사거리사또집농산물,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_785,1158족욕카페,60.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_792,중문더드림감귤,75.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,2.5,4.0
+spot_794,안친오름,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_795,RSG,60.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_796,제주 그랑블루요트투어,72.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,4.6,4.6
+spot_797,우도다이브,120.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_798,우무,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.5,3.5
+spot_801,곱은달감귤체험농장,80.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.666666666666667,4.666666666666667
+spot_802,마코다이브,210.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_803,한림민속5일시장,40.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,4.0,4.166666666666667
+spot_804,보메와산 감귤체험농장,60.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,3.5,3.75
+spot_806,조천항,90.0,자연관광지,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,3.5,3.5
+spot_807,테쉬폰,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_810,두머니물공원,42.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_811,바이킹배낚시,150.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_812,용눈이오름,20.0,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_813,디퍼프리다이브,225.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_814,두산봉,90.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_815,최남단체험감귤농장,90.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,3.333333333333333,3.333333333333333
+spot_820,제주성지,0.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_822,세미양오름,60.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_823,검은여 쉼터,75.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_824,에코랜드 갤러리카페,30.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_828,조천만세동산,30.0,"산책로, 둘레길 등","역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_829,하모해변,33.75,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.25,3.375
+spot_831,J1카트클럽,60.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,3.0,2.333333333333333
+spot_832,제주중앙지하상가,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_834,큰사슴이오름,70.0,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.833333333333333,4.666666666666667
+spot_835,법환바당 인증센터,70.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.333333333333333,4.333333333333333
+spot_836,쉼터체험농장,45.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_837,수용배낚시,120.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.75,4.75
+spot_839,운진항,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_840,놀라운트릭아이미술관,90.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,3.5,4.0
+spot_841,4.3유적지,0.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_844,제주카약올레,38.18181818181818,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,4.2727272727272725,4.454545454545454
+spot_846,휘닉스제주섭지코지 수영장,90.0,"테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,missing,4.5,4.5
+spot_847,법환동해녀물질체험장,90.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.5,4.5
+spot_849,핀크스GC,480.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_852,보성시장,15.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_853,다이노스 어라이브 제주,45.0,체험 활동 관광지,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,2.0,3.5
+spot_854,도리빨,90.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",자연관광지,missing,missing,missing,missing,missing,missing,4.5,4.5
+spot_860,브랭섬홀 아시아 아이스링크,135.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,4.0,3.5
+spot_862,루씨쏜아뜰리에,180.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.0,5.0
+spot_863,애월항,50.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.333333333333333,3.333333333333333
+spot_864,청아투명카약,50.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,4.0,4.166666666666667
+spot_866,제주애퐁당 본점,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_868,소라의성,48.0,"산책로, 둘레길 등",자연관광지,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,4.4,4.4
+spot_869,서귀진지,15.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_870,제주신화월드 코스모스밭,30.0,"산책로, 둘레길 등",자연관광지,missing,missing,missing,missing,missing,missing,3.75,4.0
+spot_871,귀덕바다 투명카약,54.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,3.2,4.2
+spot_872,제주고산리유적,30.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_873,법환항,75.0,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.5,4.5
+spot_875,초콜릿박물관,54.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,2.6,3.0
+spot_877,서귀포관광극장,30.0,"문화 시설(공연장, 영화관, 전시관 등)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,3.333333333333333,3.6666666666666665
+spot_881,카페브브,90.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_882,제주별빛누리공원,127.5,체험 활동 관광지,자연관광지,missing,missing,missing,missing,missing,missing,4.75,4.75
+spot_883,대유ATV수렵사격랜드,72.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,3.6,3.6
+spot_884,폐동밭,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.5,5.0
+spot_886,이호항,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_888,제지기오름,45.0,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.333333333333333,4.5
+spot_891,민오름,90.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_893,후해석벽,0.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_894,소남머리,22.5,자연관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,3.25,3.25
+spot_896,제주협재서프,270.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_897,토이파크,37.5,"문화 시설(공연장, 영화관, 전시관 등)",자연관광지,체험 활동 관광지,missing,missing,missing,missing,missing,2.5,2.5
+spot_901,이호해양레저,50.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,3.333333333333333,3.0
+spot_902,두맹이골목,45.0,"문화 시설(공연장, 영화관, 전시관 등)","상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_903,함덕잠수함,60.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,2.5,2.833333333333333
+spot_906,제주이야기 용두암점,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_909,M1971 요트투어,102.85714285714286,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",체험 활동 관광지,자연관광지,missing,missing,missing,missing,missing,4.285714285714286,4.428571428571429
+spot_910,돌하르방미술관,45.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,3.0,3.5
+spot_911,함덕서우봉해변 인증센터,30.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.8,4.8
+spot_915,개오름,54.0,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.2,4.4
+spot_918,성산포항,36.66666666666666,자연관광지,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",체험 활동 관광지,missing,missing,missing,missing,missing,3.888888888888889,4.111111111111111
+spot_919,추자도등대,0.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_921,무릉곶 자왈아름다운숲길,90.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_922,우도등대,48.0,자연관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,4.8,4.8
+spot_923,제주도립미술관,137.14285714285714,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,4.5,4.5
+spot_924,천제2교,0.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_927,제주삼촌,120.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.0,5.0
+spot_929,족은바리메,30.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_931,제주카페거리,45.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.5,3.5
+spot_933,말산메,60.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_934,도두사수항,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_935,정주항,90.0,자연관광지,체험 활동 관광지,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_936,알뜨르비행장,42.5,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",자연관광지,missing,missing,missing,missing,missing,missing,4.333333333333333,4.583333333333333
+spot_937,한남리머체왓숲길,95.0,"산책로, 둘레길 등",자연관광지,missing,missing,missing,missing,missing,missing,4.5,4.666666666666667
+spot_938,부림온천,75.0,"테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,missing,3.25,3.25
+spot_940,미카형증기기관차,30.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_942,월정퀵서프,195.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_945,소꼽놀이,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_947,서프서프,210.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_949,천진항,20.0,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.0,3.8333333333333335
+spot_950,수산한못,33.0,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.1,4.4
+spot_951,옷귀마테마타운 승마장,90.0,"테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,missing,4.333333333333333,4.333333333333333
+spot_952,용머리해안 기후변화홍보관,60.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_953,더메이즈엑스,150.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_955,무병장수테마파크,90.0,"테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,missing,4.0,3.0
+spot_957,버블탱크,255.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,3.5,3.5
+spot_958,달다제주,180.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_959,메리아일랜드,30.0,"상업지구(거리, 시장, 쇼핑시설)","테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,4.5,4.5
+spot_961,하도리철새도래지,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_962,제주사랑체험농장,45.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.5
+spot_964,마켓제주,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_967,비블리아성서식물원,60.0,"테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_968,노블아로마애월,90.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_969,제주배럴서프스쿨,75.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_970,범서프,255.0,체험 활동 관광지,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_973,행기소,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_975,러블리제주,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_976,사라오름,220.0,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_977,환태평양평화소공원,15.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,2.5,2.5
+spot_980,금산공원,90.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_981,사진예술공간 큰바다영,60.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_982,죽도,60.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_983,조은승마장,30.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_984,태봉왓,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_985,낙천의자공원,45.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,2.5,4.0
+spot_987,도구리알,30.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",자연관광지,missing,missing,missing,missing,missing,missing,4.5,4.5
+spot_988,모이소,42.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,4.6,4.8
+spot_989,천지동어린이공원,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.0,3.0
+spot_997,용연교,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.5,5.0
+spot_998,동회천,30.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_999,갑문다리,60.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1001,예원이네귤농장,60.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,3.5,5.0
+spot_1005,더시에나컨트리클럽 제주,360.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1009,김녕금속공예벽화마을,60.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1012,알제이,90.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1014,바람모루길,30.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1016,제주모슬포알뜨르비행장 일제 지하벙커,60.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1017,대정읍성,180.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1019,당산봉,60.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.8,4.8
+spot_1022,철새 천연기념물 희귀새도래및철새서식지,50.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.666666666666667,4.666666666666667
+spot_1023,월정모살길,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1025,명월대,30.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1026,중문오프로드체험장,40.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,3.6666666666666665,4.0
+spot_1027,쥬쥬쿠키,120.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1033,성읍랜드,60.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1034,선녀바위,37.5,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.75,4.5
+spot_1038,행원연대봉,45.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,4.5,4.5
+spot_1039,월라봉,60.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,2.0,3.0
+spot_1040,라온쥬,60.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1044,애월돌고래전망대,30.0,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.0,3.6666666666666665
+spot_1045,당신의캠프닉,90.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1046,레인보우제주 시장2호점,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1047,제주옹기박물관,30.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1049,인생네컷 제주일도지구점,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1050,올레바당체험마을,75.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,3.0,3.5
+spot_1051,달달미깡감귤밭,90.0,자연관광지,체험 활동 관광지,missing,missing,missing,missing,missing,missing,3.333333333333333,3.6666666666666665
+spot_1052,아덴힐승마클럽,90.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1056,블루오션 차귀도요트,165.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1058,어영마을,30.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1059,런던다락,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1060,탐라문화제,60.0,지역 축제/행사,missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1061,동복관광체험어장,30.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1062,한라산컨트리클럽,300.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1064,비체올린,84.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,3.4,3.4
+spot_1067,화순항,70.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)","산책로, 둘레길 등",체험 활동 관광지,missing,missing,missing,missing,missing,5.0,4.666666666666667
+spot_1072,행원환해장성,60.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1077,산방연대,30.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",자연관광지,missing,missing,missing,missing,missing,missing,3.0,4.0
+spot_1078,북수구광장,210.0,지역 축제/행사,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1079,김정문알로에 알로에숲,40.0,"문화 시설(공연장, 영화관, 전시관 등)","산책로, 둘레길 등",체험 활동 관광지,missing,missing,missing,missing,missing,3.6666666666666665,4.0
+spot_1083,엄장해암길,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1084,모구리오름,30.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1085,하모해수풀장,60.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1086,화순금모래해수욕장 수영장,30.0,"테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1088,김만덕기념관,30.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1090,귤림서원,30.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1091,동수악,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1092,서귀포제트보트,60.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,4.0,3.0
+spot_1093,후포해변,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.5,4.5
+spot_1094,제주민군복합형관광미항,30.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,4.0,3.0
+spot_1098,소공녀글라스,210.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,3.0,4.0
+spot_1100,우도고고씽,15.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1101,구시물,30.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1102,몰래물,60.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1103,칠십리음식특화거리,60.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1104,잃어버린마을곤을동,60.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1106,휘닉스제주섭지코지 올레길미로,30.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1107,포토이즘스튜디오 제주점,60.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1108,삐꼴라상점,60.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1109,진지동굴,60.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1110,낙천아홉굿마을,60.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1112,제주모슬포 알뜨르비행장 일제고사포진지,30.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1115,해양소공원,30.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1117,새섬,50.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.8333333333333335,4.0
+spot_1118,서귀포 매일올레시장,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1119,조랑말박물관,30.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1120,자연사랑미술관,30.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,2.5,2.5
+spot_1121,제주최영장군사당,0.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1122,제주로운 감귤밭,90.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1123,노리터서핑,210.0,체험 활동 관광지,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,5.0,4.5
+spot_1127,올레파머스 월정점,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.0,4.0
+spot_1128,비양도항,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1129,김녕항,40.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.6666666666666665,4.333333333333333
+spot_1130,바농오름,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.0,5.0
+spot_1133,제주바다체험장,80.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,1.6666666666666667,2.0
+spot_1134,엉알해안,15.0,자연관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,3.5,3.5
+spot_1135,레인보우제주,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1136,바굼지오름,75.0,"산책로, 둘레길 등",자연관광지,missing,missing,missing,missing,missing,missing,3.5,3.5
+spot_1137,제주대벚꽃길,0.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1140,걸쇠오름,60.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.5,3.5
+spot_1141,낭끼오름,75.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.5,4.5
+spot_1142,하가리연꽃마을,30.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,2.0,2.0
+spot_1145,제주신화월드 모실클럽하우스,90.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1146,바운스슈퍼파크 제주센터,120.0,"테마시설(놀이공원, 워터파크)","레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1147,섬투어레져,150.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1149,쇠소깍크루즈,30.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1153,제주시티투어버스,60.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1154,도르멍쉼팡,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.0,2.0
+spot_1156,붉은오름,97.5,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.5,4.5
+spot_1159,동백포레스트,60.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1165,제주목공방,105.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1166,고살리숲길,80.0,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,3.6666666666666665,3.5
+spot_1170,신흥바다낚시공원,45.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1172,다이브자이언트 제주,240.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1173,오조리레저파크,60.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,3.0,3.333333333333333
+spot_1178,아랑조을거리,50.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,4.0,3.6666666666666665
+spot_1179,추억의숲길,30.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,3.0,3.5
+spot_1180,가시리마을,30.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1181,블루제주솝,30.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1183,제주수학체험관,60.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1185,인생네컷 제주제이원카트클럽점,60.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1186,사진말전문갤러리 마음빛그리미,60.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1187,국수문화거리,40.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,2.6666666666666665,3.0
+spot_1188,바구스서핑스쿨 이호점,135.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,3.5,4.5
+spot_1190,잃어버린 마을 무등이왓,30.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1194,별도봉,60.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1196,포토이즘박스 함덕해수욕장점,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1197,삼다공원,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.5,4.0
+spot_1199,도두추억애거리,15.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1203,김녕요트투어,110.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,4.666666666666667,4.666666666666667
+spot_1205,화순방파제,90.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1207,모비딕 다이브센터,300.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1208,신화가든,0.0,"테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1212,방사탑,0.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1215,제동목장,30.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1216,오조항,120.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1217,서프로와,210.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1218,눈물의십자가,30.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1220,한림공원 쌍용굴,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.0,4.0
+spot_1221,낮잠나무,60.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1222,용둠벙전망대,30.0,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.5,4.5
+spot_1223,우뭇개해안,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1224,답다니탑망대,0.0,자연관광지,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1226,자배봉,60.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1227,메종글래드제주 더파티오풀,45.0,"테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1230,이음새,180.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1232,선인장서프,180.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1234,인생네컷 제주애월트레일러점,0.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,2.0,2.0
+spot_1236,지금사계,90.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1237,성수개,60.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1238,함덕해수욕장 잔디광장,60.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1242,제주로컬푸드 연동점,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1243,금빛감귤체험농원,90.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1245,무비랜드왁스뮤지엄 제주,30.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,2.0,3.0
+spot_1246,제주소나이,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1248,강정항,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1249,세화항,30.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1250,감귤소녀체험장,60.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1254,가디언다이브리조트,30.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1257,앵무야앵무야,60.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,2.0,3.0
+spot_1259,제주칠성로상점가,120.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1262,성산스쿠버리조트,180.0,체험 활동 관광지,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1264,구씨네사진관,90.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1268,산세미오름,45.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,2.5,3.0
+spot_1269,단순,90.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,3.0,4.0
+spot_1270,제주감성소품,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.0,4.0
+spot_1272,아리온승마장,30.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1273,새별오름관광타운,75.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.5,4.5
+spot_1274,천주교용수성지,60.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1277,성김대건신부 제주표착기념관,30.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,3.5,3.5
+spot_1282,아라리오뮤지엄 동문모텔1,90.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,4.0,4.333333333333333
+spot_1286,바다타이테라피,120.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1288,색달생수천 생태문화공원,60.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.5,4.0
+spot_1295,ICC제주갤러리,30.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,4.0,3.0
+spot_1296,존자암지,60.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1298,바지선선상낚시,240.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1302,우도한바퀴,15.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",자연관광지,missing,missing,missing,missing,missing,missing,4.5,5.0
+spot_1304,애월아안녕,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1305,모슬봉숲길,60.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1307,지미스우도 보트관광,30.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1308,동검은이오름,60.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1309,신례리 지석묘 2호,30.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,2.0,2.0
+spot_1310,천아오름,60.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,4.0
+spot_1311,높은오름,90.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1313,정모시쉼터,40.0,자연관광지,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,4.333333333333333,4.666666666666667
+spot_1314,베리굿농장,60.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1317,연북정,20.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,3.333333333333333,3.333333333333333
+spot_1319,신흥리방사탑2호,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.0,3.0
+spot_1321,제주와인아울렛 신화월드점,150.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1324,서부두방파제,60.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1325,샵제주,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1326,귀덕1리항,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1329,서건도,90.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.5,4.5
+spot_1330,핸드아트제주,150.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,1.0,4.0
+spot_1332,사슴공방,90.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1334,제주센트럴파크,90.0,"테마시설(놀이공원, 워터파크)","레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,3.6666666666666665,3.6666666666666665
+spot_1337,솜반천,0.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,4.0,3.0
+spot_1339,제주선물가게,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1346,서프포인트 제주,150.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1347,나바론절벽,60.0,"산책로, 둘레길 등",자연관광지,missing,missing,missing,missing,missing,missing,4.5,4.5
+spot_1348,선물가게바나나,45.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.5,3.5
+spot_1351,월정리카페거리,75.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,4.5,4.5
+spot_1352,제주스쿠버스쿨,240.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1355,산지천 전망대,30.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,3.0,2.0
+spot_1356,솔오름전망대,60.0,"산책로, 둘레길 등",자연관광지,missing,missing,missing,missing,missing,missing,4.333333333333333,4.0
+spot_1357,곶자왈생태체험관,30.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1359,트멍공방,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1360,언더더씨,180.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,3.0,4.0
+spot_1361,제주조랑말타운,90.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1363,월정몰리네,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1364,팜파스군락지,30.0,체험 활동 관광지,자연관광지,missing,missing,missing,missing,missing,missing,2.5,3.5
+spot_1365,아날로그감귤밭,45.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1367,거친오름,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1368,추사적거지기념관,30.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1370,서준공방,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.0,4.0
+spot_1373,선임교,30.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1376,표선민속오일시장,60.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1381,포토이즘박스 서귀포올레시장점,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1382,헬로제주,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1385,니모스토리,90.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,2.0,2.0
+spot_1387,아라고나이트 고온천,120.0,"테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1388,서프론트,240.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1390,드르쿰다ATV in 상효,90.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1391,하우목동,15.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1392,우진제비오름,60.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1397,쇠와꽃승마장,30.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1398,우뭇개동산,30.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1400,삼양1동항,0.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.0,2.0
+spot_1401,서우봉 진지동굴,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1402,귤밭에댕댕이 체험농장&공방,120.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1405,제주 셋알오름 일제동굴진지,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1406,나인브릿지CC,210.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,5.0,4.0
+spot_1407,블루베이,60.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1411,노리터서핑스쿨,180.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1413,차귀도체험배낚시횟집,150.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,3.0,4.0
+spot_1414,그린크루즈,90.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,1.0,1.0
+spot_1415,탐나는농장,60.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1421,월대천,30.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1423,난타극장 제주전용관,90.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1424,마라해양도립공원,0.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.0,4.0
+spot_1426,이호해수욕장,0.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,3.0,4.0
+spot_1429,돈키쥬쥬,75.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1434,하이월드,30.0,"테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1436,부소오름,60.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1438,애월바다테라피,90.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1439,벵뒤굴,120.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1441,야자나라,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1442,하루필름 애월점,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1445,아트스페이스빈공간,30.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1449,덩개해안,30.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1452,국립산림과학원 난대아열대산림연구소 한남연구시험림,180.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1453,미악산,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1460,신화의거리,60.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1461,19호어린이공원,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,2.0,2.0
+spot_1463,큰넓궤,30.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,2.0,4.0
+spot_1467,제주한화리조트 탐라테라피,60.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1468,갯깍주상절리대,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,2.0,2.0
+spot_1469,중문카트체험장,30.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1470,제주카약,135.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",체험 활동 관광지,missing,missing,missing,missing,missing,missing,4.5,4.0
+spot_1471,표선항,60.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1472,제주해녀축제,105.0,지역 축제/행사,missing,missing,missing,missing,missing,missing,missing,2.5,3.5
+spot_1473,섯알오름예비검속희생자추모비,30.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,2.0,5.0
+spot_1475,신천올레해수풀장,120.0,"테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1478,이호방파제,60.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1479,월정스티치,45.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,3.5,4.0
+spot_1482,금동이네귤농장,60.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,2.0,3.0
+spot_1485,제주스런 서귀포공방,60.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1487,10호어린이공원,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1488,미래골프클럽,120.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1490,쿰다ATV,90.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1494,삼매봉공원,60.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1495,남원용암해수풀장,0.0,"테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1496,덕천곤충 영농조합,60.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1499,제주메밀꽃축제,30.0,지역 축제/행사,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1504,포토그레이 제주점,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,2.0,2.0
+spot_1506,우도팔경유람선,30.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1507,부가네감귤농장,30.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1508,예술공간 오이,60.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1509,삼다체육공원,30.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1510,탑승마클럽,90.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1511,세이레아트센터,120.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1513,오현단,30.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,2.0,3.0
+spot_1516,클랭블루,60.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1517,갤러리노리,30.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1521,예래생태마을,30.0,"산책로, 둘레길 등",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1522,중문서핑스쿨&중문서핑샵,240.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1525,스튜디오 제주스럽,60.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1526,몽돌해변,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1527,중문승마공원,60.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1528,동부골프연습장,60.0,"레저/스포츠 관련 시설(스키, 카트, 수상레저)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1529,러브레시피 스튜디오,90.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1533,제파,60.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1535,시오름,60.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1536,뿔소라공원,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1541,동안경굴,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1542,플레이롤러,90.0,"테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1545,서광다원연구소,60.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1546,제주담을센터,90.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1547,옹포천 어울공원 수영장,30.0,"테마시설(놀이공원, 워터파크)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1549,주정공장 옛터,0.0,"역사/유적/종교 시설(문화재, 박물관, 촬영지, 절 등)",missing,missing,missing,missing,missing,missing,missing,3.0,3.0
+spot_1550,귤림체험농원,60.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,2.0,3.0
+spot_1552,캐럿서프,240.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1556,현명한감귤체험농장,30.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,3.0,4.0
+spot_1560,이모션오르골카페,0.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1561,미쁜제과,30.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
+spot_1562,서담갤러리카페,0.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1563,탑스킨케어,60.0,체험 활동 관광지,missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1565,제주일출봉해안 일제동굴진지,30.0,자연관광지,missing,missing,missing,missing,missing,missing,missing,3.0,4.0
+spot_1566,현인갤러리,30.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,2.0,2.0
+spot_1570,예술공간 이아,60.0,"문화 시설(공연장, 영화관, 전시관 등)",missing,missing,missing,missing,missing,missing,missing,5.0,5.0
+spot_1571,세화마을협동조합,60.0,"상업지구(거리, 시장, 쇼핑시설)",missing,missing,missing,missing,missing,missing,missing,4.0,4.0
